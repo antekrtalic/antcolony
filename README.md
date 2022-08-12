@@ -1,4 +1,4 @@
-<h1>Tips on things I Didn't finish</h1>
+<h1>Tips on things I didn't finish</h1>
 <ul>
 <li>Didn't add login</li>
 <li>Authentication missing</li>
